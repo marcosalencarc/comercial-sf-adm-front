@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "conventional-changelog": "conventional-changelog",
-    "start": "ng serve",
+    "start": "node server.js",
     "test": "ng test",
     "lint": "ng lint",
     "lint:fix": "ng lint ngx-admin-demo --fix",
