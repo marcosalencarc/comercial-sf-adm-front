@@ -115,6 +115,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "comercial-sf-adm-front"
+    }
+  },
+  "defaultProject": "comercial-sf-adm-front",
+  "cli": {
+    "analytics": "02bf6902-7e0e-45a4-acdc-533fbc778462"
+  }
 }
